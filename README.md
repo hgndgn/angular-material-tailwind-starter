@@ -1,6 +1,6 @@
 # angular-material-tailwind-starter
 
-[Angular Material](https://material.angular.io/) + [Tailwindcss]([abc.com](https://tailwindcss.com/)) starter project using [Webpack](https://webpack.js.org/)
+[Angular Material](https://material.angular.io/) + [Tailwindcss](https://tailwindcss.com/) starter project using [Webpack](https://webpack.js.org/)
 
 ### Get Started
 
