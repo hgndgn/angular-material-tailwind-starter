@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*********  EXAMPLE CLASS  *********/
+.rounded-shadowed {
+  @apply rounded-lg shadow-2xl
+}
